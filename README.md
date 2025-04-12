@@ -15,23 +15,23 @@
 ## 💻 Technical Skills
 
 ### 🖥️ Programming Languages  
-`Java` &nbsp;|&nbsp; `C` &nbsp;|&nbsp; `JavaScript` &nbsp;|&nbsp; `HTML5` &nbsp;|&nbsp; `CSS3` &nbsp;|&nbsp; `SQL`
+- **Java**, **C**, **JavaScript**  
+- **HTML5**, **CSS3**, **SQL**
 
-### 🔧 Frameworks & Libraries  
-`React.js` &nbsp;|&nbsp; `Tailwind CSS`
+### 🧩 Frameworks & Libraries  
+- **React.js**, **Tailwind CSS**
 
-### 🗃️ Databases  
-`MySQL`
+### 🗄️ Databases  
+- **MySQL**
 
-### 🛠️ Development Tools  
-`Git` &nbsp;|&nbsp; `VS Code` &nbsp;|&nbsp; `PHPMyAdmin` &nbsp;|&nbsp; `Postman`
+### ⚙️ Development & Tools  
+- **Git**, **VS Code**, **PHPMyAdmin**, **Postman**
 
 ---
 
 ## 🌟 About Me
 - 🎓 Computer Science and Engineering Student  
 - 💡 Focused on front-end & back-end web development  
-- 🌐 Currently building websites for SL Infotech and Dhanima Inc.  
 - 🧠 Exploring cloud integration and responsive UI/UX techniques  
 - 🤝 Open to collaboration, learning, and cool side projects
 
