@@ -7,7 +7,7 @@
 ---
 
 ## 📡 Contact Information  
-- 🌐 [Portfolio – sameerg.netlify.app](https://www.sameerg.netlify.app)  
+- 🌐 [Portfolio – sameerg.netlify.app](https://sameerg.netlify.app/)  
 - 📬 Email: sameergediya1415@gmail.com  
 
 ---
