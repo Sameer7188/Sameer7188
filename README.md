@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Sameer Gediya!
 
 🚀 Passionate **Web Developer** | **Java Programmer**  
-🎓 3rd-year B.Tech CSE Student @ Ahmedabad University  
+🎓 Final year B.Tech CSE Student @ Ahmedabad University  
 🌱 Dedicated to building clean, responsive, and impactful websites and apps.
 
 ---
