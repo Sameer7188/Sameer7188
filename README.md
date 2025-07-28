@@ -35,7 +35,6 @@
 - Authentication & Security  
 - API Integration  
 - Responsive UI/UX Design  
-- Exploring Cloud & DevOps Fundamentals
 
 ---
 
