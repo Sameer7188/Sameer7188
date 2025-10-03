@@ -56,19 +56,10 @@ Worked on component-based architecture with state management and UI/UX best prac
 
 ---
 
-## 🔨 Projects  
+## 🌍 Company Projects  
 
-### 🎟️ **Ticket Booking System**  
-> A full-stack movie booking system with seat selection, QR-based payment, and JWT auth.  
-**Tech:** React, Node.js, Express.js, MongoDB, JWT  
-
-### 🔐 **2FA Authentication System**  
-> Multi-layered login system with TOTP, email verification, and CAPTCHA.  
-**Tech:** Java, TypeScript, MySQL, JWT  
-
-### 🏢 **Dhanima Inc. Website**  
-> A corporate website with secure contact forms and responsive product pages.  
-**Tech:** React.js, CSS, PHP  
+- 🔗 [Axiskem Global Pvt. Ltd. Website](https://axiskemglobal.netlify.app)  
+- 🔗 [Dhanima Inc. Website](https://dhanimainc.com)  
 
 ---
 
@@ -87,4 +78,4 @@ Worked on component-based architecture with state management and UI/UX best prac
 
 ---
 
-*Let’s build something awesome together! Feel free to connect or say hi 👋*
+*Let’s build something awesome together! Feel free to connect or say hi 👋*  
