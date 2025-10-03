@@ -15,7 +15,7 @@
 ## 💻 Technical Skills  
 
 ### 👨‍💻 Programming Languages  
-`Java` | `JavaScript` | `HTML5` | `CSS3` | `SQL` | `PHP`
+`Java` | `JavaScript` | `HTML5` | `CSS3` | `SQL` | `PHP` | `Python`
 
 ### ⚙️ Frameworks & Libraries  
 `React.js` | `Node.js` | `Express.js` | `Tailwind CSS`
