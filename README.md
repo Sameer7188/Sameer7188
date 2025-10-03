@@ -39,8 +39,8 @@
 
 ## 🌟 Achievements  
 - 🧠 Solved **600+ DSA problems**  
-  - 🏆 1681 problems on **LeetCode**  
-  - 🥈 1147 problems on **Codeforces**  
+  - 🏆 1681+ Rating on **LeetCode**  
+  - 🥈 1147+ Rating on **Codeforces**  
 - 🥇 Top 295 in **LeetCode Weekly Contest 445**  
 - 🥉 5th Place – **Clash of Code**, Ahmedabad University (Jan–Feb 2025)
 
