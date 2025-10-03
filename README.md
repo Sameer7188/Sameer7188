@@ -18,7 +18,7 @@
 `Java` | `JavaScript` | `HTML5` | `CSS3` | `SQL` | `PHP`
 
 ### ⚙️ Frameworks & Libraries  
-`React.js` | `Node.js` | `Express.js` | `Tailwind CSS`
+`React.js` | `Node.js` | `Express.js`
 
 ### 🗃️ Databases  
 `MySQL` | `MongoDB`
@@ -58,7 +58,7 @@ Worked on component-based architecture with state management and UI/UX best prac
 
 ## 🌍 Company Projects  
 
-- 🔗 [Axiskem Global Pvt. Ltd. Website](https://axiskemglobal.netlify.app)  
+- 🔗 [Axiskem Global Pvt. Ltd. Website](https://axiskemg.netlify.app)  
 - 🔗 [Dhanima Inc. Website](https://dhanimainc.com)  
 
 ---
