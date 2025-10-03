@@ -58,7 +58,7 @@ Worked on component-based architecture with state management and UI/UX best prac
 
 ## 🌍 Company Projects  
 
-- 🔗 [Axiskem Global Pvt. Ltd. Website](https://axiskemg.netlify.app)  
+- 🔗 [Axiskem Global Pvt. Ltd. Website](https://axiskem.netlify.app)  
 - 🔗 [Dhanima Inc. Website](https://dhanimainc.com)  
 
 ---
