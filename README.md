@@ -29,11 +29,10 @@
 ---
 
 ## 🧠 Interests & Focus Areas  
-- Frontend Web Development  
+- Full Stack Web Development  
 - Java & DSA  
 - Authentication & Security  
 - API Integration  
-- Responsive UI/UX Design  
 
 ---
 
